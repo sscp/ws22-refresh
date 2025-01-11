@@ -1,14 +1,14 @@
 # Altium auto-generated content
-/History
-/outputs
-.html
-.PcbDoc.Zip
-.SchDoc.Zip
-.SchDocPreview
+History/
+outputs/
+*.html
+*.PcbDoc.Zip
+*.SchDoc.Zip
+*.SchDocPreview
 
 # VS Code auto-generated directories
-.vs
-.vscode
+*.vs
+*.vscode
 
 # IAR auto-generated directories
 Debug
