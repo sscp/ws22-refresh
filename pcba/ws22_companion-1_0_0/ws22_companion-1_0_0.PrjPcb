@@ -645,12 +645,33 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KCRSCCSL
 
+[Document36]
+DocumentPath=ws22_companion-1_0_0.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [ProjectVariant1]
 UniqueId=8287e946-c1cb-4d35-bb05-fc821da2fe35
 Description=0
 AllowFabrication=0
 ParameterCount=0
-VariationCount=0
+VariationCount=4
+Variation1=Designator=R43|UniqueId=\PVBEQQAD|Kind=1|AlternatePart=
+Variation2=Designator=R45|UniqueId=\MYHVPNJY|Kind=1|AlternatePart=
+Variation3=Designator=R47|UniqueId=\AEWVRPYC|Kind=1|AlternatePart=
+Variation4=Designator=R48|UniqueId=\WJEVCXDZ|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [SearchPath1]
@@ -820,7 +841,7 @@ SCH_ShowNoteCollapsed=-1
 Wir_PrintColor=0
 Ldr_PrintColor=0
 SCH_ExpandLogicalToPhysical=-1
-SCH_VariantName=[No Variations]
+SCH_VariantName=0
 SCH_ExpandComponentDesignators=-1
 SCH_ExpandNetlabels=-1
 SCH_ExpandPorts=-1
@@ -828,6 +849,7 @@ SCH_ExpandSheetNumber=-1
 SCH_ExpandDocumentNumber=-1
 SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=-1
+Esd_PrintColor=0
 
 [OutputGroup1]
 Name=Netlist Outputs
